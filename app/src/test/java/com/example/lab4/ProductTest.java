@@ -20,4 +20,5 @@ public class ProductTest {
         assertNull(product.getName());
         assertEquals(0.0, product.getPrice(), 0.01);
     }
+    // Petit changement pour déclencher le workflow GitHub Actions
 }
